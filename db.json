@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hasib",
+      "email": "hasib@gmail.com",
+      "phone": "017248441984"
+    },
+    {
+      "name": "Mahin",
+      "email": "agent@gmail.com",
+      "phone": "422424",
+      "id": 2
+    },
+    {
+      "name": "Thor Odinson",
+      "email": "thor@gmail.com",
+      "phone": "52552",
+      "id": 3
+    },
+    {
+      "name": "Dummy(updated)",
+      "email": "dummyupdated@gmail.com",
+      "phone": "5252525",
+      "id": 4
+    },
+    {
+      "name": "Summer Soto updated",
+      "email": "fevuly@mailinator.com",
+      "phone": "+1 (291) 592-1961",
+      "id": 7
+    },
+    {
+      "name": "Lani Terry dada",
+      "email": "viceheny@mailinator.com",
+      "phone": "+1 (522) 506-9427",
+      "id": 12
+    },
+    {
+      "name": "Danielle Griffith",
+      "email": "nosutesuta@mailinator.com",
+      "phone": "+1 (118) 419-9039",
+      "id": 13
+    },
+    {
+      "name": "Suki Howe",
+      "email": "doxo@mailinator.com",
+      "phone": "+1 (945) 875-6981",
+      "id": 15
+    },
+    {
+      "name": "Ferdinand Stevens",
+      "email": "qukuvefu@mailinator.com",
+      "phone": "+1 (169) 466-4375",
+      "id": 18
+    },
+    {
+      "name": "Helen Marquez",
+      "email": "dihyvuxi@mailinator.com",
+      "phone": "+1 (234) 789-2033",
+      "id": 19
+    },
+    {
+      "name": "Tara Romero",
+      "email": "dimibaha@mailinator.com",
+      "phone": "+1 (968) 964-6996",
+      "id": 20
+    },
+    {
+      "name": "Macy Hess",
+      "email": "qecycyjavi@mailinator.com",
+      "phone": "+1 (448) 752-3506",
+      "id": 21
+    },
+    {
+      "name": "Odette Anderson",
+      "email": "gowyrutoli@mailinator.com",
+      "phone": "+1 (811) 479-5837",
+      "id": 22
+    },
+    {
+      "name": "Ashely Harrell",
+      "email": "lytumomuwa@mailinator.com",
+      "phone": "+1 (905) 973-8579",
+      "id": 23
+    },
+    {
+      "name": "Alfreda Cruz",
+      "email": "wekohuvubo@mailinator.com",
+      "phone": "+1 (511) 115-6731",
+      "id": 24
+    }
+  ]
+}
